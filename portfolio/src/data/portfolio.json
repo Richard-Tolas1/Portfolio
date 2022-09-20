@@ -1,0 +1,10 @@
+{
+    "portfolio" : [
+        {
+            "cover" : "/portfolio/1/one.jpg",
+            "title" : "G-STORES",
+            "description" : "HTML, CSS, JAVASCRIPT",
+            "url" : "https://g-stores.netlify.app/"
+        }
+    ]
+}
