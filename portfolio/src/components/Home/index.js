@@ -42,7 +42,6 @@ const Home = () => {
               strArray={jobArray}
               idx={22}
             />
-            <span className={`${letterClass} _15`}>a</span>
           </h1>
           <h2>Software Developer</h2>
           <Link to="/contact" className="flat-button">
