@@ -5,6 +5,25 @@
             "title" : "G-STORES",
             "description" : "HTML, CSS, JAVASCRIPT",
             "url" : "https://g-stores.netlify.app/"
+        },
+        {
+            "cover" : "/portfolio/1/XDistroImg.png",
+            "title" : "XDistro Music",
+            "description" : "React, Redux, Typescript",
+            "url" : "https://www.xdistromusic.com/"
+        },
+        {
+            "cover" : "/portfolio/1/GrovePayImg.png",
+            "title" : "GrovePay",
+            "description" : "React, Redux, Typescript",
+            "url" : "https://www.grovepay.co.uk/"
+        },
+        
+        {
+            "cover" : "/portfolio/1/BuyBarterImg.png",
+            "title" : "BuyBarter",
+            "description" : "React, Redux, Typescript",
+            "url" : "https://www.grovepay.co.uk/"
         }
     ]
 }
